@@ -1,7 +1,6 @@
-# perovskite-stability
-
+# anion-stoichiometry
 Repository associated with https://arxiv.org/abs/1801.07700 used to predict the stability of perovskites given composition
-
+This branch is intended to allow all integer anion stoichiometries in compounds with two anions.
 
 ## Data files from manuscript
 
